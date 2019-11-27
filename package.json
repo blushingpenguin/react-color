@@ -1,9 +1,10 @@
 {
   "name": "react-color-es",
-  "version": "2.17.3",
+  "version": "2.17.4",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/casesandberg/react-color.git"
