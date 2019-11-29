@@ -68,3 +68,11 @@ export const red = {
   rgb: { r: 255, g: 0, b: 0, a: 1 },
   hsv: { h: 0, s: 1, v: 1, a: 1 },
 }
+
+export default {
+  simpleCheckForValidColor,
+  toState,
+  isValidHex,
+  getContrastingColor,
+  red
+}
